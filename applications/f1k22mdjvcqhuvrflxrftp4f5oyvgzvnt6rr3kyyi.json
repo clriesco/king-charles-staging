@@ -36,40 +36,14 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-03-18 09:25:06.670288429 UTC",
-    "Validated By": "clriesco",
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
     "Active": true,
-    "Updated At": "2024-03-18 10:45:59.330555 UTC",
-    "Active Request ID": "a212a0c0-fdaa-4936-85d3-b03f725cab26",
+    "Updated At": "2024-03-18 10:57:57.704883905 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f1k22mdjvcqhuvrflxrftp4f5oyvgzvnt6rr3kyyi",
     "Multisig Address": "false"
   },
-  "Allocation Requests": [
-    {
-      "ID": "e510000a-e95f-4adf-b5b5-6cbff0f55cc5",
-      "Request Type": "First",
-      "Created At": "2024-03-18 09:25:06.670292958 UTC",
-      "Updated At": "2024-03-18 09:25:06.670293839 UTC",
-      "Active": false,
-      "Allocation Amount": "1PiB",
-      "Signers": [
-        {
-          "Github Username": "clriesco",
-          "Signing Address": "f1fqzg6wzl6xfjikjx45mscj6ajziktnioql4otfq",
-          "Created At": "2024-03-18 09:53:48.616000000 UTC",
-          "Message CID": "bafy2bzacednpdyasqxjygniilyspaf6y5c7fd7uwjxwbipdwdtiz5c553hmue"
-        }
-      ]
-    },
-    {
-      "ID": "a212a0c0-fdaa-4936-85d3-b03f725cab26",
-      "Request Type": "Refill",
-      "Created At": "2024-03-18 10:24:43.180979158 UTC",
-      "Updated At": "2024-03-18 10:24:43.180980389 UTC",
-      "Active": true,
-      "Allocation Amount": "102.39TiB",
-      "Signers": []
-    }
-  ]
+  "Allocation Requests": []
 }
