@@ -36,11 +36,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-03-18 09:25:06.670288429 UTC",
     "Validated By": "clriesco",
     "Active": true,
-    "Updated At": "2024-03-18 10:24:43.180954471 UTC",
+    "Updated At": "2024-03-18 10:45:59.330555 UTC",
     "Active Request ID": "a212a0c0-fdaa-4936-85d3-b03f725cab26",
     "On Chain Address": "f1k22mdjvcqhuvrflxrftp4f5oyvgzvnt6rr3kyyi",
     "Multisig Address": "false"
