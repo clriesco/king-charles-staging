@@ -36,11 +36,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-03-18 10:58:43.688179936 UTC",
     "Validated By": "clriesco",
     "Active": true,
-    "Updated At": "2024-03-18 10:58:43.688184226 UTC",
+    "Updated At": "2024-03-18 10:59:23.017627637 UTC",
     "Active Request ID": "c5f1213a-de53-41cb-91af-325616b56b9a",
     "On Chain Address": "f1k22mdjvcqhuvrflxrftp4f5oyvgzvnt6rr3kyyi",
     "Multisig Address": "false"
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-03-18 10:58:43.688186354 UTC",
       "Updated At": "2024-03-18 10:58:43.688187443 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1PiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "clriesco",
+          "Signing Address": "f1fqzg6wzl6xfjikjx45mscj6ajziktnioql4otfq",
+          "Created At": "2024-03-18 10:59:20.636000000 UTC",
+          "Message CID": "bafy2bzacec57a3m4oqhgvk2vk2cvgybxw3uxe6c7hqxw4qdmyassl7xlbw2ya"
+        }
+      ]
     }
   ]
 }
