@@ -36,7 +36,7 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-03-18 09:25:06.670288429 UTC",
     "Validated By": "clriesco",
     "Active": true,
