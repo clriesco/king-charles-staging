@@ -40,8 +40,8 @@
     "Validated At": "2024-03-19 14:37:37.973236940 UTC",
     "Validated By": "clriesco",
     "Active": true,
-    "Updated At": "2024-03-19 14:39:49.790017095 UTC",
-    "Active Request ID": "74f9c03a-c16a-414f-971a-1e75a47fe6de",
+    "Updated At": "2024-03-19 14:43:38.301382122 UTC",
+    "Active Request ID": "9dbd49ee-7d9d-44ab-b69b-cc6932471d05",
     "On Chain Address": "f1itdw3qxfmtruyevfjl5epufwvlbvos6cqno6vgy",
     "Multisig Address": "false"
   },
@@ -59,6 +59,22 @@
           "Signing Address": "f1fqzg6wzl6xfjikjx45mscj6ajziktnioql4otfq",
           "Created At": "2024-03-19 14:39:48.272000000 UTC",
           "Message CID": "bafy2bzaceb7ombstfdftzci7m6ejcotv74gdfygxozes6gi4jelzm3usaamog"
+        }
+      ]
+    },
+    {
+      "ID": "9dbd49ee-7d9d-44ab-b69b-cc6932471d05",
+      "Request Type": "Refill",
+      "Created At": "2024-03-19 14:42:45.453017848 UTC",
+      "Updated At": "2024-03-19 14:42:45.453019340 UTC",
+      "Active": false,
+      "Allocation Amount": "102.39TiB",
+      "Signers": [
+        {
+          "Github Username": "clriesco",
+          "Signing Address": "f1fqzg6wzl6xfjikjx45mscj6ajziktnioql4otfq",
+          "Created At": "2024-03-19 14:43:36.672000000 UTC",
+          "Message CID": "bafy2bzacedvdkp7u5ja75box7nxk5iiojyuogjiixmfcxo3la6xmjposfswpq"
         }
       ]
     }
