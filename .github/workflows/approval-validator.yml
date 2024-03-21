@@ -6,6 +6,7 @@ on:
       - opened
       - synchronize
 
+
 jobs:
   validate-approval:
     runs-on: ubuntu-latest
