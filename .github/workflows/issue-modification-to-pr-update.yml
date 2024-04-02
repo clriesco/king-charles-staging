@@ -9,7 +9,7 @@ jobs:
   convert-issue-to-pr:
     runs-on: ubuntu-latest
     env:
-      #BACKEND_URL: https://monthly-assuring-troll.ngrok-free.app
+      BACKEND_URL: https://monthly-assuring-troll.ngrok-free.app
     steps:
       - name: Check out code
         uses: actions/checkout@v2
