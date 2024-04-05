@@ -43,7 +43,8 @@
     "Updated At": "2024-04-01 13:32:34.889014962 UTC",
     "Active Request ID": "fabc2976-b0b1-45c6-b9d1-904aabb72c9d",
     "On Chain Address": "f1gavvrcgtksbr3p5g7clqx2xyji7usvdagd75may",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": true
   },
   "Allocation Requests": [
     {
