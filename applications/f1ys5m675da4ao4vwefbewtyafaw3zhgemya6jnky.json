@@ -7,7 +7,7 @@
     "Region": "Spain",
     "Industry": "Life Science / Healthcare",
     "Website": "charly",
-    "Social Media": "charly",
+    "Social Media": "charlya",
     "Social Media Type": "Slack",
     "Role": "Dataset Owner"
   },
@@ -43,7 +43,8 @@
     "Updated At": "2024-04-11 11:39:34.055635516 UTC",
     "Active Request ID": "c5499048-e164-4cdf-a0a3-0568798eea3f",
     "On Chain Address": "f1ys5m675da4ao4vwefbewtyafaw3zhgemya6jnky",
-    "Multisig Address": "false"
+    "Multisig Address": "false",
+    "edited": true
   },
   "Allocation Requests": [
     {
