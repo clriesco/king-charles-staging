@@ -30,10 +30,10 @@
   "Datacap": {
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
-    "Total Requested Amount": "14",
-    "Single Size Dataset": "10",
+    "Total Requested Amount": "14PiB",
+    "Single Size Dataset": "10TiB",
     "Replicas": 4,
-    "Weekly Allocation": "10"
+    "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
     "State": "Submitted",
