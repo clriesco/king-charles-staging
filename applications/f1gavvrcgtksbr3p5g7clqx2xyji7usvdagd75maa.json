@@ -3,16 +3,16 @@
   "ID": "f1gavvrcgtksbr3p5g7clqx2xyji7usvdagd75maa",
   "Issue Number": "72",
   "Client": {
-    "Name": "Changed owner 2",
+    "Name": "Changed owner 3",
     "Region": "Spain",
-    "Industry": "Changed Industry 2",
+    "Industry": "Changed Industry 4",
     "Website": "Changed website 2",
     "Social Media": "Changed Social Media 2",
     "Social Media Type": "Slack Changed 2",
     "Role": "Dataset Owner"
   },
   "Project": {
-    "Project Id": "Changed project 2",
+    "Project Id": "Changed project 3",
     "Brief history of your project and organization": "test 2",
     "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
     "Describe the data being stored onto Filecoin": "test 2",
@@ -31,7 +31,7 @@
     "Type": "ldn-v3",
     "Data Type": "Slingshot",
     "Total Requested Amount": "5.51PiB",
-    "Single Size Dataset": "4TiB",
+    "Single Size Dataset": "3TiB",
     "Replicas": 6,
     "Weekly Allocation": "6PiB"
   },
